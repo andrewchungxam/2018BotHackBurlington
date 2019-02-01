@@ -12,11 +12,19 @@
     {
       "type": "qna",
       "name": "RoyaltyInfo2018",
-      "kbId": "1b4fd03dYourNumberHere000008565e3e7",
-      "subscriptionKey": "5dd61YourNumberHere00000a579b",
-      "endpointKey": "f892caa4-Your-Number-Here34233f2f",
-      "hostname": "https://yourqnaservice.azurewebsites.net/qnamaker",
+      "kbId": "YOURxKBxID",
+      "subscriptionKey": "YOURxSUBSCRIPTIONxKEY",
+      "endpointKey": "YOURxENDPOINTxKEY",
+      "hostname": "https://YOURxQNAxBOT.azurewebsites.net/qnamaker",
       "id": "3"
+    },
+    {
+      "type": "endpoint",
+      "appId": "YOURxAPPxID",
+      "appPassword": "YOURxAPPxPASSWORD",
+      "endpoint": "https://YOURxBOTxURLxHERExFROMxPORTALxREGISTRATION.azurewebsites.net/api/messages",
+      "id": "2",
+      "name": "production"
     }
   ],
   "padlock": "",
